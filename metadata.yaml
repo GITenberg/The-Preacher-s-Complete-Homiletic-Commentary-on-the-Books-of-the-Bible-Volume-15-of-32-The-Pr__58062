@@ -1,5 +1,8 @@
 _repo: The-Preacher-s-Complete-Homiletic-Commentary-on-the-Books-of-the-Bible-Volume-15-of-32-The-Pr__58062
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Bertram, Robert Aitkin
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49755'
     url: http://www.gutenberg.org/2009/agents/49755
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58062#The-Preacher-s-Complete-Homiletic-Commentary-on-the-Books-of-the-Bible-Volume-15-of-32-The-Pr_
 gutenberg_issued: '2018-10-09'
 gutenberg_type: Text
 identifiers:
